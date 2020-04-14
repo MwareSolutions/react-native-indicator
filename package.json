@@ -1,0 +1,58 @@
+{
+  "_args": [
+    [
+      "react-native-indicator@0.7.0",
+      "/Users/sanderkerstens/Downloads/Apps_All_Generic/MwareIPTV_VL/TV_Platforms"
+    ]
+  ],
+  "_from": "react-native-indicator@0.7.0",
+  "_id": "react-native-indicator@0.7.0",
+  "_inBundle": false,
+  "_integrity": "sha1-tuqVKh42Lcz6kUPWdvElg/B4XeA=",
+  "_location": "/react-native-indicator",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-indicator@0.7.0",
+    "name": "react-native-indicator",
+    "escapedName": "react-native-indicator",
+    "rawSpec": "0.7.0",
+    "saveSpec": null,
+    "fetchSpec": "0.7.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-indicator/-/react-native-indicator-0.7.0.tgz",
+  "_spec": "0.7.0",
+  "_where": "/Users/sanderkerstens/Downloads/Apps_All_Generic/MwareIPTV_VL/TV_Platforms",
+  "author": {
+    "name": "Di Wang"
+  },
+  "bugs": {
+    "url": "https://github.com/wangdicoder/react-native-indicator/issues"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  },
+  "description": "React Native Indicator Component",
+  "homepage": "https://github.com/wangdicoder/react-native-indicator#readme",
+  "keywords": [
+    "react-native",
+    "indicator",
+    "loader",
+    "progress"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-indicator",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangdicoder/react-native-indicator.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.7.0"
+}
